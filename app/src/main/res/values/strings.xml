@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">trikimedia</string>
+    <string name="facebook_app_id">1288212228178787</string>
+    <string name="logout">Logout</string>
+    <string name="press">press</string>
+    <string name="log_in">Log in</string>
+    <string name="result_text">result_text</string>
+
+</resources>

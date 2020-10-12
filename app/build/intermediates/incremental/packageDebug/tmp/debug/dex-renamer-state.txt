@@ -1,0 +1,4 @@
+#Mon Oct 12 16:51:50 BST 2020
+base.0=/home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

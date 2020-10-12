@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/f2f1b116bcb211c27e6c9363607fda6c/facebook-android-sdk-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/06abf089e2b88d993a67550505ea7268/facebook-login-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/fab3ec4e1ed7aeed605711b9b4405640/facebook-share-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:21:1-52:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/95f04b110241e57aca0316b254579748/appcompat-v7-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/1241ecb573369d3e4f1454e5e4caf5de/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-places:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/d7f81cb05cd6126f1356ecb566255170/facebook-places-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/23444bdae4953786838f93ef416c59cf/facebook-applinks-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/cbc07950782c6cb1e83e93f39e865234/facebook-messenger-5.15.3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4018dd4d2c882a9a591e6f4ad8e928fe/support-v4-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4de1b5245652cf9ae943de97bd446f51/support-fragment-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/c11b45cc7a31534044bb8371a6f3e67d/support-core-utils-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/6e4b6743f1c9a0087cf3a4ed98e7e83e/cardview-v7-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/c42729e0a305d3d814e24756b6ca49f5/customtabs-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/57b988139986118e7fbcf1e3592cdbc4/support-media-compat-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/a69fb61fb1c1810b7fd4d1fb642c41a8/animated-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/66781a6c1d9f29e984c781a5379b61ff/support-core-ui-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/f85d21c83d36a7cbc7d5746e57120e14/support-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/dacf13e20dd36d19f9635485464ea44f/support-compat-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4cd7e1d9d881bbc2cef3eee38190cc79/installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/c2e398b63d7b11e9f562649ba324c617/runtime-1.0.3/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:4:5-34
+		INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+		INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:8:5-41:19
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/f2f1b116bcb211c27e6c9363607fda6c/facebook-android-sdk-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/f2f1b116bcb211c27e6c9363607fda6c/facebook-android-sdk-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/06abf089e2b88d993a67550505ea7268/facebook-login-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/06abf089e2b88d993a67550505ea7268/facebook-login-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/fab3ec4e1ed7aeed605711b9b4405640/facebook-share-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/fab3ec4e1ed7aeed605711b9b4405640/facebook-share-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:29:5-50:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/1241ecb573369d3e4f1454e5e4caf5de/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/1241ecb573369d3e4f1454e5e4caf5de/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-places:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/d7f81cb05cd6126f1356ecb566255170/facebook-places-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/d7f81cb05cd6126f1356ecb566255170/facebook-places-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/23444bdae4953786838f93ef416c59cf/facebook-applinks-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/23444bdae4953786838f93ef416c59cf/facebook-applinks-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/cbc07950782c6cb1e83e93f39e865234/facebook-messenger-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/cbc07950782c6cb1e83e93f39e865234/facebook-messenger-5.15.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4cd7e1d9d881bbc2cef3eee38190cc79/installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4cd7e1d9d881bbc2cef3eee38190cc79/installreferrer-1.0/AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:9:9-38
+activity#com.matt.trikimedia.MainActivity
+ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.matt.trikimedia.AuthenticatedActivity
+ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:23:19-56
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:25:9-27:55
+	android:value
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:27:13-52
+	android:name
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:26:13-58
+activity#com.facebook.FacebookActivity
+ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:28:9-33:45
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:30:9-33:66
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:30:9-33:66
+	android:label
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:31:13-45
+	android:configChanges
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:30:13-96
+	android:theme
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:32:13-72
+		REJECTED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:33:13-63
+	tools:replace
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:33:13-42
+	android:name
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:29:13-57
+provider#com.facebook.FacebookContentProvider
+ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:36:9-39:39
+	android:authorities
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:38:13-90
+	android:exported
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml:37:13-64
+uses-sdk
+INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/f2f1b116bcb211c27e6c9363607fda6c/facebook-android-sdk-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/f2f1b116bcb211c27e6c9363607fda6c/facebook-android-sdk-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/06abf089e2b88d993a67550505ea7268/facebook-login-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/06abf089e2b88d993a67550505ea7268/facebook-login-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/fab3ec4e1ed7aeed605711b9b4405640/facebook-share-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/fab3ec4e1ed7aeed605711b9b4405640/facebook-share-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/95f04b110241e57aca0316b254579748/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/95f04b110241e57aca0316b254579748/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/1241ecb573369d3e4f1454e5e4caf5de/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/1241ecb573369d3e4f1454e5e4caf5de/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-places:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/d7f81cb05cd6126f1356ecb566255170/facebook-places-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/d7f81cb05cd6126f1356ecb566255170/facebook-places-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/23444bdae4953786838f93ef416c59cf/facebook-applinks-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/23444bdae4953786838f93ef416c59cf/facebook-applinks-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/cbc07950782c6cb1e83e93f39e865234/facebook-messenger-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/cbc07950782c6cb1e83e93f39e865234/facebook-messenger-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4018dd4d2c882a9a591e6f4ad8e928fe/support-v4-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4018dd4d2c882a9a591e6f4ad8e928fe/support-v4-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4de1b5245652cf9ae943de97bd446f51/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4de1b5245652cf9ae943de97bd446f51/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/c11b45cc7a31534044bb8371a6f3e67d/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/c11b45cc7a31534044bb8371a6f3e67d/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/6e4b6743f1c9a0087cf3a4ed98e7e83e/cardview-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/6e4b6743f1c9a0087cf3a4ed98e7e83e/cardview-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/c42729e0a305d3d814e24756b6ca49f5/customtabs-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/c42729e0a305d3d814e24756b6ca49f5/customtabs-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/57b988139986118e7fbcf1e3592cdbc4/support-media-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/57b988139986118e7fbcf1e3592cdbc4/support-media-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/a69fb61fb1c1810b7fd4d1fb642c41a8/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/a69fb61fb1c1810b7fd4d1fb642c41a8/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/66781a6c1d9f29e984c781a5379b61ff/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/66781a6c1d9f29e984c781a5379b61ff/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/f85d21c83d36a7cbc7d5746e57120e14/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/f85d21c83d36a7cbc7d5746e57120e14/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/dacf13e20dd36d19f9635485464ea44f/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/dacf13e20dd36d19f9635485464ea44f/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4cd7e1d9d881bbc2cef3eee38190cc79/installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4cd7e1d9d881bbc2cef3eee38190cc79/installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/c2e398b63d7b11e9f562649ba324c617/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/c2e398b63d7b11e9f562649ba324c617/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+		INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+		ADDED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+		INJECTED from /home/two-lanterns/AndroidStudioProjects/android-kotlin-wikimedia/app/src/main/AndroidManifest.xml
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.matt.trikimedia+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:39:13-48:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:43:27-75
+data
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:45:17-47:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:46:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/79df2661115d572a461b4b75eac82fcd/facebook-common-5.15.3/AndroidManifest.xml:47:21-47
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/e1bfd9f9603819d503f1ab099908c49d/facebook-core-5.15.3/AndroidManifest.xml:48:25-92
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4cd7e1d9d881bbc2cef3eee38190cc79/installreferrer-1.0/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] /home/two-lanterns/.gradle/caches/transforms-2/files-2.1/4cd7e1d9d881bbc2cef3eee38190cc79/installreferrer-1.0/AndroidManifest.xml:9:22-107
